@@ -3,3 +3,4 @@ git add filename
 git commit
 git restor
 git status
+git log
