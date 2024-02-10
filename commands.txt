@@ -4,3 +4,4 @@ git commit
 git restor
 git status
 git log
+git config user.name //to check user name
